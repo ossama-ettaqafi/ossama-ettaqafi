@@ -40,7 +40,7 @@
 
 <!-- Contact Section -->
 <h3>📬 Let's Build Something Amazing Together!</h3>
-<p>Got a project in mind or just want to chat? Let’s connect!</p>
+<p>Got a project in mind? Let’s connect!</p>
 <p>
   📧 <strong>Email:</strong> ossamaett2002@gmail.com
 </p>
