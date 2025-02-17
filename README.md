@@ -42,7 +42,6 @@
 <h3>📬 Let's Build Something Amazing Together!</h3>
 <p>Got a project in mind or just want to chat? Let’s connect!</p>
 <p>
-  📱 <strong>WhatsApp:</strong> +212 651102287<br>
   📧 <strong>Email:</strong> ossamaett2002@gmail.com
 </p>
 
