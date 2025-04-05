@@ -49,7 +49,6 @@
 <footer>
   <p>© 2025 <strong>Ossama ETTAQAFI</strong>. All rights reserved.</p>
   <p>
-    <a href="https://linkedin.com/in/ossama-ettaqafi">LinkedIn</a> | 
     <a href="https://github.com/ossama-ettaqafi">GitHub</a>
   </p>
 </footer>
