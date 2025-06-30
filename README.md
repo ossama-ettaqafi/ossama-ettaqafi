@@ -67,5 +67,7 @@
   <p>© 2025 <strong>Ossama ETTAQAFI</strong>. All rights reserved.</p>
   <p>
     <a href="https://github.com/ossama-ettaqafi">GitHub</a>
+    |
+    <a href="https://www.upwork.com/freelancers/~01f4c13eeb9438d8b6">Upwork</a>
   </p>
 </footer>
