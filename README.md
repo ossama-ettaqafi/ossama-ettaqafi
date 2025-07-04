@@ -47,14 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" style="margin:5px;">
 </p>
 
-<!-- Hobbies Section -->
-<h3>🎨 Beyond the Code</h3>
-<ul>
-  <li>🎶 <strong>Music</strong> – Fuel for creativity and flow.</li>
-  <li>📚 <strong>Books</strong> – Lifelong learner and curious mind.</li>
-  <li>🎬 <strong>Movies</strong> – Inspiration from great storytelling.</li>
-</ul>
-
 <!-- Contact Section -->
 <h3>📬 Let's Build Something Amazing Together!</h3>
 <p>Have a project or idea? I’d love to hear from you!</p>
