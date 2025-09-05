@@ -61,8 +61,6 @@
     <a href="https://github.com/ossama-ettaqafi">GitHub</a>
     |
     <a href="https://www.linkedin.com/in/ossama-ettaqafi">LinkedIn</a>
-    |
-    <a href="https://www.upwork.com/freelancers/~01f4c13eeb9438d8b6">Upwork</a>
 
   </p>
 </footer>
