@@ -1,6 +1,6 @@
 ### Hi, I'm **Ossama ETTAQAFI** 👋🏻
 
-bio, mzl khdam 3liha...
+lbio mzl khdam 3liha... i’m not perfect and i don’t chase perfectionism. i’m just working on some projects to prove to myself that i grasp the theory. not gonna lie, for the past three years i’ve been using ai to help me deliver, but what’s important is understanding how and what. thank you!
 
 ### 💻 Languages I Love
 
