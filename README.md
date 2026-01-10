@@ -1,6 +1,6 @@
 ### Hi, I'm **Ossama ETTAQAFI** 👋🏻
 
-hey, the bio is still a work in progress. i’m currently focusing on projects to demonstrate that i fully understand the underlying theory, which is quite extensive and conceptually dense. over the past three years, i’ve leveraged ai to accelerate my work, but what truly matters is mastering both the how and the what. thank you.
+hey, the bio is still a work in progress. thank you.
 
 ### 💻 Languages I Love
 
