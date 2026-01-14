@@ -26,7 +26,7 @@ Passionate about Data Science, AI, and the mechanics of life itself. My mission 
 
 - 🧪 Research Interests: Crime Analytics and Forensic Data Science.
 
-- 💡 Philosophy: Stay productive, stay curious, and build tools that actually matter.
+- 💡 Philosophy: I believe in accumulation: slow, steady, and progressive.
 
 ### 🛠️ Tech Stack
 
