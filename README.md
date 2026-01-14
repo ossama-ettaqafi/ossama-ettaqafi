@@ -1,32 +1,46 @@
 <div align="center">
 
+### Salam! I'm Ossama ETTAQAFI
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+**Data Scientist in training | AI Enthusiast | Problem Solver**
+
+*Bio atkun wajda 7ta ndio fi tajin myt7reg hhh*
+
+[💼 LinkedIn](https://www.linkedin.com/in/ossama-ettaqafi) • [📧 Email Me](mailto:ossamaett2002@gmail.com) • [🚀 Portfolio (in progress)](#)
 
 </div>
 
-### Hi, I'm **Ossama ETTAQAFI** 👋🏻
+### ⚡ A Little About Me
 
-hey, the bio is still a work in progress. thank you. (tandiro fi tajin myt7reg hhh)
+Passionate about Data Science, AI, and the mechanics of life itself. My mission is to bridge the gap between theoretical knowledge and societal impact, ransforming complex data into real-world solutions.
 
-### 💻 Languages I Love
+- 🎓 Currently Seeking: PFE (Final Year Project) or Internship opportunities for 2026.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" title="C" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" title="Java" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" title="Python" />  
+- 🧪 Research Interests: Crime Analytics and Forensic Data Science, particularly predictive modeling for pattern discovery and public safety enhancement.
 
-### 🛠️ Core Tools & Technologies
+- 💡 Philosophy: Stay productive, stay curious, and build tools that actually matter.
 
-| Category                     | Basics |
-| ---------------------------- | ------ |
-| 🧠 **AI & Machine Learning** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="25" /> |
-| 📊 **Data Science**          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="25" /> |
-| 🌐 **Web Basics**            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" /> |
-| 🛠 **Tools**                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" /> |
+### 🛠️ My Tech Stack
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **AI & Data Science** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Web Basics** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
-### 🤝🏼 Open To
+### 🤝🏼 Let's Connect!
 
-* PFE / Internships
-* AI & Data Projects
-* Freelance Collaboration
+I’m always open to discussing **Freelance projects**, **AI research**, or just talking about tech over a virtual coffee.
 
-📧 **[ossamaett2002@gmail.com](mailto:ossamaett2502@gmail.com)** </br>
-💻 [GitHub](https://github.com/ossama-ettaqafi) | 💼 [LinkedIn](https://www.linkedin.com/in/ossama-ettaqafi)
+<div align="center">
+  
+**Thanks for being here! Thela(y) frask al3awd(a) 😄**
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=add8e7&height=60&section=footer" width="100%"/>
+</p>
