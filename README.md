@@ -12,7 +12,7 @@
 
 </div>
 
-### ⚡ A Little About Me
+### ⚡ A Little About
 
 Passionate about Data Science, AI, and the mechanics of life itself. My mission is to bridge the gap between theoretical knowledge and societal impact, ransforming complex data into real-world solutions.
 
@@ -22,7 +22,7 @@ Passionate about Data Science, AI, and the mechanics of life itself. My mission 
 
 - 💡 Philosophy: Stay productive, stay curious, and build tools that actually matter.
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -33,7 +33,7 @@ Passionate about Data Science, AI, and the mechanics of life itself. My mission 
 
 ### 🤝🏼 Let's Connect!
 
-I’m always open to discussing **Freelance projects**, **AI research**, or just talking about tech over a virtual coffee.
+Always open to discussing **Freelance projects**, **AI projects**, or just talking about tech over a virtual coffee.
 
 <div align="center">
   
