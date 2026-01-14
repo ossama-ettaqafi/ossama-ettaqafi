@@ -4,7 +4,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-**Data Scientist in training | AI Enthusiast | Problem Solver**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E7&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Training;AI+Enthusiast;Problem+Solver;Crime+Analytics+Researcher" alt="Typing SVG" />
 
 *Bio atkun wajda 7ta ndio fi tajin myt7reg hhh*
 
@@ -18,7 +18,7 @@ Passionate about Data Science, AI, and the mechanics of life itself. My mission 
 
 - 🎓 Currently Seeking: PFE (Final Year Project) or Internship opportunities for 2026.
 
-- 🧪 Research Interests: Crime Analytics and Forensic Data Science, particularly predictive modeling for pattern discovery and public safety enhancement.
+- 🧪 Research Interests: Crime Analytics and Forensic Data Science.
 
 - 💡 Philosophy: Stay productive, stay curious, and build tools that actually matter.
 
