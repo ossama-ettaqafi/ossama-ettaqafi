@@ -14,7 +14,7 @@
 
 *Bio atkun wajda 7ta ndio fi tajin myt7reg hhh*
 
-[💼 LinkedIn](https://www.linkedin.com/in/ossama-ettaqafi) • [📧 Email Me](mailto:ossamaett2002@gmail.com) • [🚀 Portfolio (in progress)](#)
+[💼 LinkedIn](https://www.linkedin.com/in/ossama-ettaqafi "stupid ass, arrogant, narcissistic copycat platform") • [📧 Email Me](mailto:ossamaett2002@gmail.com "reach out to discuss a project")• [🚀 Portfolio (in progress)](#)
 
 </div>
 
