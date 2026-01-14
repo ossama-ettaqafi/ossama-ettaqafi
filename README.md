@@ -1,6 +1,6 @@
 ### Hi, I'm **Ossama ETTAQAFI** 👋🏻
 
-hey, the bio is still a work in progress. thank you.
+hey, the bio is still a work in progress. thank you. (tandiro fi tajin myt7reg hhh)
 
 ### 💻 Languages I Love
 
