@@ -1,3 +1,9 @@
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
 ### Hi, I'm **Ossama ETTAQAFI** 👋🏻
 
 hey, the bio is still a work in progress. thank you. (tandiro fi tajin myt7reg hhh)
