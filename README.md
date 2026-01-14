@@ -2,7 +2,12 @@
 
 ### Salam! I'm Ossama ETTAQAFI
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNtOTltdjZ0amo4Nml6M3R3cm1mcTU4NXZ2bGlkcDhqY2FqYTdiaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMnaw2lESuKnd42hnk/giphy.gif" width="100" style="vertical-align:middle" />
+  <a href="https://github.com/kittinan/spotify-github-profile" style="vertical-align:middle">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false" style="vertical-align:middle" />
+  </a>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E7&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Training;AI+Enthusiast;Problem+Solver;Ma3gaz+Kbir" alt="Typing SVG" />
 
