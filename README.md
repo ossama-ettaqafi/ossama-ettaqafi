@@ -20,7 +20,7 @@
 
 ### ⚡ A Little About
 
-Passionate about Data Science, AI, and the mechanics of life itself. My mission is to bridge the gap between theoretical knowledge and societal impact, ransforming complex data into real-world solutions.
+Passionate about Data Science, AI, and the mechanics of life itself. The mission is to bridge the gap between theoretical knowledge and societal impact, ransforming complex data into real-world solutions.
 
 - 🎓 Currently Seeking: PFE (Final Year Project) or Internship opportunities for 2026.
 
