@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E7&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Training;AI+Enthusiast;Ma3gaz+Kbir" alt="Typing SVG" />
 
 *Bio atkun wa7ed wajda 7ta ndiro fi tajine mayt7reg hh* </br>
-*Still learning, still exploring, still failing, still working on projects.*
+*Still learning, still exploring, still working on projects, still failing.*
 
 [💼 LinkedIn](https://www.linkedin.com/in/ossama-ettaqafi "stupid ass, arrogant, narcissistic copycat platform") • [📧 Email Me](mailto:ossamaett2002@gmail.com "reach out to discuss a project")• [🚀 Portfolio (in progress)](#)
 
