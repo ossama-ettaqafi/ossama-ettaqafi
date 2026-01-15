@@ -10,7 +10,7 @@
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJwbnlhMXp1NjE1dWF2aWhicWlwOHZrdTRzMzVpYTcyaHR1dmlpaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fvwgJhsUcvVrIFLsuk/giphy.gif" width="100" style="vertical-align:middle" />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E7&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Training;AI+Enthusiast;Problem+Solver;Ma3gaz+Kbir" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E7&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Training;AI+Enthusiast;Ma3gaz+Kbir" alt="Typing SVG" />
 
 *Bio atkun wajda 7ta ndio fi tajin myt7reg hhh*
 
