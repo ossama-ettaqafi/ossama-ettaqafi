@@ -12,7 +12,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E7&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Training;AI+Enthusiast;Ma3gaz+Kbir" alt="Typing SVG" />
 
-*Bio atkun wajda 7ta ndio fi tajin myt7reg hhh*
+*Bio atkun wa7ed wajda 7ta ndiro fi tajine mayt7reg hh* </br>
+*Still learning, still exploring, still failing, still working on projects.*
 
 [💼 LinkedIn](https://www.linkedin.com/in/ossama-ettaqafi "stupid ass, arrogant, narcissistic copycat platform") • [📧 Email Me](mailto:ossamaett2002@gmail.com "reach out to discuss a project")• [🚀 Portfolio (in progress)](#)
 
@@ -23,7 +24,7 @@
 Passionate about Data Science, AI, and the mechanics of life itself. The mission is to bridge the gap between theoretical knowledge and societal impact, ransforming complex data into real-world solutions.
 - 🎓 Currently Seeking: PFE (Final Year Project) or Internship opportunities for 2026.
 - 🧪 Research Interests: ...
-- 💡 Philosophy: I believe in accumulation: slow, steady, and progressive.
+- 💡 Philosophy: Believe in accumulation: slow, steady, and progressive.
 
 ### 🛠️ Tech Stack
 
