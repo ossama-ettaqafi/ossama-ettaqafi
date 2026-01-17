@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=25&letterSpacing=5&duration=1&pause=0&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Salam,+I'm+Ossama+ETTAQAFI." alt="Ossama ETTAQAFI" />
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&letterSpacing=5&duration=200&pause=50&color=add8e7&center=true&vCenter=true&width=900&height=50&lines=I'm+Ossama+ETTAQAFI;I'm+0ss%40ma+ETT%23QAFI;I'm+Ossama+ETTAQAFI;I'm+O__ama+ETTAQAFI" alt="Ossama Glitch" />
+  
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false" width="350" />
   </a>
