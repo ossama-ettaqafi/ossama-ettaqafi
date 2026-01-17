@@ -1,6 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=add8e7&height=150&section=header&text=Salam!%20I'm%20Ossama%20ETTAQAFI&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=70&lines=root@ossama:~$+whoami;Ossama+ETTAQAFI;" />
+</p>
 
 <br/>
 
