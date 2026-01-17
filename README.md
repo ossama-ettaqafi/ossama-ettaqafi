@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=add8e7&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Training;AI+Enthusiast;Ma3gaz+Kbir" alt="Typing SVG" />
 
-*Bio atkun wa7ed wajda 7ta ndiro fi tajine mayt7reg hh* 🍲
+*Bio atkun wa7ed wajda 7ta ndiro fi tajine mayt7reg hh*
 <br/>
 *Continuous learning, exploration, and progress through failure.*
 
