@@ -1,17 +1,10 @@
 <div align="center">
-<hr width="50%" />
-<h4 style="letter-spacing: 5px;">OSSAMA ETTAQAFI</h2>
-<p>✦ CREATIVE DEVELOPER ✦</p>
-<hr width="50%" />
-  
-<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=25&letterSpacing=5&duration=1&pause=0&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Salam,+I'm+Ossama+ETTAQAFI." alt="Ossama ETTAQAFI" />
 
-<div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false" width="350" />
   </a>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJwbnlhMXp1NjE1dWF2aWhicWlwOHZrdTRzMzVpYTcyaHR1dmlpaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fvwgJhsUcvVrIFLsuk/giphy.gif" width="120" />
-</div>
 
 <br/>
 
