@@ -1,48 +1,81 @@
 <div align="center">
 
-### Salam! I'm Ossama ETTAQAFI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=add8e7&height=240&section=header&text=Salam!%20I%27m%20Ossama%20ETTAQAFI&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <div align="center">
-  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNtOTltdjZ0amo4Nml6M3R3cm1mcTU4NXZ2bGlkcDhqY2FqYTdiaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMnaw2lESuKnd42hnk/giphy.gif" width="100" style="vertical-align:middle" /> -->
-  <a href="https://github.com/kittinan/spotify-github-profile" style="vertical-align:middle">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false" style="vertical-align:middle" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false" width="350" />
   </a>
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJwbnlhMXp1NjE1dWF2aWhicWlwOHZrdTRzMzVpYTcyaHR1dmlpaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fvwgJhsUcvVrIFLsuk/giphy.gif" width="100" style="vertical-align:middle" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJwbnlhMXp1NjE1dWF2aWhicWlwOHZrdTRzMzVpYTcyaHR1dmlpaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fvwgJhsUcvVrIFLsuk/giphy.gif" width="100" />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADD8E7&center=true&vCenter=true&width=435&lines=Data+Scientist+in+Training;AI+Enthusiast;Ma3gaz+Kbir" alt="Typing SVG" />
+<br/>
 
-*Bio atkun wa7ed wajda 7ta ndiro fi tajine mayt7reg hh* </br>
-*Still learning, still exploring, still working on projects, still failing.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ADD8E7&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Training;AI+Enthusiast;Ma3gaz+Kbir" alt="Typing SVG" />
 
-[💼 LinkedIn](https://www.linkedin.com/in/ossama-ettaqafi "stupid ass, arrogant, narcissistic copycat platform") • [📧 Email Me](mailto:ossamaett2002@gmail.com "reach out to discuss a project")• [🚀 Portfolio (in progress)](#)
+*Bio atkun wa7ed wajda 7ta ndiro fi tajine mayt7reg hh* 🍲
+<br/>
+*Continuous learning, exploration, and progress through failure.*
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ossama-ettaqafi" title="stupid ass, arrogant, narcissistic copycat platform">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:ossamaett2002@gmail.com" title="reach out to discuss a project or just to say salam!">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="#" title="work in progress...">
+    <img src="https://img.shields.io/badge/Portfolio-ADD8E7?style=for-the-badge&logo=&logoColor=black" alt="Portfolio" />
+  </a>
+</p>
 
 </div>
 
-### ⚡ A Little About
+---
 
-Passionate about Data Science, AI, and the mechanics of life itself. The mission is to bridge the gap between theoretical knowledge and societal impact, ransforming complex data into real-world solutions.
-- 🎓 Currently Seeking: PFE (Final Year Project) or Internship opportunities for 2026.
-- 🧪 Research Interests: ...
-- 💡 Philosophy: Believe in accumulation: slow, steady, and progressive.
+### 📂 Quick Navigation (Click to Expand)
 
-### 🛠️ Tech Stack
+<details>
+<summary><b>⚡ Profile Overview</b></summary>
+
+Bridging the gap between complex data and real-world impact. Currently focused on the mechanics of AI and its practical applications.
+<br>
+
+- 🎓 **Current Status:** Seeking PFE / Internship 2026.
+- 💡 **Philosophy:** Accumulation. Slow, steady, and progressive growth.
+- 🧪 **Research:** Investigating the intersection of Data Science and societal transformation.
+</details>
+
+<details>
+<summary><b>🛠️ Tech Stack & Tools</b></summary>
+<br>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **AI & Data Science** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **Web Basics** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Learning More** | ![Loading](https://img.shields.io/badge/Skills-Loading...-blue?style=flat-square&logo=loop&logoColor=white) |
+</details>
 
-### 🤝🏼 Let's Connect!
+### 🤝🏼 Connectivity
 
-Always open to discussing **Freelance projects**, **AI projects**, or just talking about tech over a virtual coffee.
+Open for discussions regarding **Freelance projects**, **AI initiatives**, or general tech networking.
 
 <div align="center">
-  
-**Thanks for being here! Thela(y) frask al3awd(a) 😄**
+
+<details>
+<summary>🤫 <b>Don't click here...</b></summary>
+<br>
+<img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-570.gif" width="100" />
+<p><b>B9iti 7ta l7na?</b> <br>Chokran mn la9alb, tehela(y) fi rask al3awd(a)!
+</p>
+</details>
 
 </div>
 
