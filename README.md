@@ -77,7 +77,7 @@ Open for discussions regarding **Freelance projects**, **AI initiatives**, or ge
 <summary>🤫 <b>Don't click here...</b></summary>
 <br>
 <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-570.gif" width="100" />
-<p><b>B9iti 7ta l7na?</b> <br>Chokran mn la9alb, tehela(y) fi rask al3awd(a)!
+<p><b>Weslti 7ta lhna?</b> <br>Chokran mn la9alb, tehela(y) fi rask al3awd(a)!
 </p>
 </details>
 
