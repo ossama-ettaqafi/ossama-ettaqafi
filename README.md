@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=add8e7&height=240&section=header&text=Salam!%20I%27m%20Ossama%20ETTAQAFI&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=add8e7&height=150&section=header&text=Salam!%20I'm%20Ossama%20ETTAQAFI&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
