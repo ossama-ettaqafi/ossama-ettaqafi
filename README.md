@@ -19,8 +19,14 @@
 <br/>
 *Continuous learning, exploration, and progress through failure.*
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/45bf4252-00ba-4073-8e2d-7007be95cab0" width="20" style="position: absolute; margin-left: -50px;"/>
+  <p>Wait, is that your mouse or mine?</p>
+</div>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ossama-ettaqafi" title="stupid ass, arrogant, narcissistic copycat platform">
+  <!-- <a href="https://www.linkedin.com/in/ossama-ettaqafi" title="stupid ass, arrogant, narcissistic copycat platform"> -->
+    <a href="https://www.linkedin.com/in/ossama-ettaqafi" title="seeking an intership">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn" />
   </a>
 
