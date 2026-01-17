@@ -1,9 +1,9 @@
 <div align="center">
+<hr width="50%" />
+<h4 style="letter-spacing: 5px;">OSSAMA ETTAQAFI</h2>
+<p>✦ CREATIVE DEVELOPER ✦</p>
+<hr width="50%" />
   
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=70&lines=root@ossama:~$+whoami;Ossama+ETTAQAFI;" />
-</p>
-
 <br/>
 
 <div align="center">
@@ -43,7 +43,9 @@
 
 </div>
 
----
+<div align="center">
+  <hr width="70%" />
+</div>
 
 ### 📂 Quick Navigation (Click to Expand)
 
