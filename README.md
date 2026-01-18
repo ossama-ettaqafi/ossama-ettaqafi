@@ -46,7 +46,6 @@
 <details>
 <summary><b>⚡ Profile Overview</b></summary>
 
-Bridging the gap between complex data and real-world impact. Currently focused on the mechanics of AI and its practical applications.
 <br>
 
 - 🎓 **Current Status:** Seeking PFE / Internship 2026.
