@@ -11,9 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=add8e7&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Training;AI+Enthusiast;Ma3gaz+Kbir" alt="Typing SVG" />
 
-**Learning by doing**
-<br>
-*Continuous learning, exploration, and progress through failure.*
+<p><b>🚀 Learning by doing</b><br><i>Continuous learning, exploration, and progress through failure.</i></p>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1c768924-567b-4da7-b4a7-b4b54b2e2d1a" width="20" style="position: absolute; margin-left: -50px;"/>
@@ -86,15 +84,12 @@
 Open for discussions regarding **Freelance projects**, **AI initiatives**, or general tech networking.
 
 <div align="center">
-
-<details>
-<summary>🤫 <b>Don't click here...</b></summary>
-<br>
-<img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-570.gif" width="100" />
-<p><b>u made it here?</b> <br>thanks from my heart. i truly wish you all the best!
-</p>
-</details>
-
+  <details>
+    <summary>🤫 <b>Easter Egg...</b></summary>
+    <br>
+    <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-570.gif" width="120" />
+    <p><b>You found it!</b><br>I truly appreciate you scrolling this far. Let's build something cool!</p>
+  </details>
 </div>
 
 <p align="center">
