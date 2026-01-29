@@ -46,8 +46,9 @@
 <br>
 
 - 🎓 **Current Status:** Seeking PFE / Internship 2026.
-- 💡 **Philosophy:** Accumulation. Slow, steady, and progressive growth.
-- 🧪 **Research:** Investigating the intersection of Data Science and societal transformation.
+- 💡 **Philosophy:** Accumulation, slow, steady, and progressive growth.
+- 🧪 **Research:** Still exploring a domain worth investing time and money in.
+
 </details>
 
 <details>
