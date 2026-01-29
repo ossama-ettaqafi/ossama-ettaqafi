@@ -47,7 +47,7 @@
 
 - 🎓 **Current Status:** Seeking PFE / Internship 2026.
 - 💡 **Philosophy:** Accumulation, slow, steady, and progressive growth.
-- 🧪 **Research:** Still exploring a domain worth investing time and money in.
+- 🧪 **Research:** Still exploring...
 
 </details>
 
