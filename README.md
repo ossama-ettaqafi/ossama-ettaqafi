@@ -47,7 +47,7 @@
 
 - 🎓 **Current Status:** Seeking PFE / Internship 2026.
 - 💡 **Philosophy:** Accumulation, slow, steady, and progressive growth.
-- 🧪 **Research:** Still exploring... I'll be so f*cking happy if i contributing in something helping people around me in need or the humanity in general.
+- 🧪 **Research:** Still exploring...
 
 </details>
 
