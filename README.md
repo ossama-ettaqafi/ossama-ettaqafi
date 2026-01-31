@@ -55,7 +55,7 @@
 <summary><b>🛠️ Technical Ecosystem</b></summary>
 <br>
 
-`I have a strong understanding of some of these skills, while others I know primarily through theory and documentation, as no one is perfect xd`
+`i have a strong understanding of some of these skills, while others i know primarily through theory and documentation, as no one is perfect xd`
 
 #### 🏗️ Software Engineering & Web Systems
 | Category | Tools & Technologies |
