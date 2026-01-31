@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&letterSpacing=5&duration=200&pause=50&color=add8e7&center=true&vCenter=true&width=900&height=50&lines=I'm+Ossama+ETTAQAFI;I'm+0ss%40ma+ETT%23QAFI;I'm+Ossama+ETTAQAFI;I'm+O__ama+ETTAQAFI" alt="Ossama Glitch" title="it’s 2026, and i’m still bugging."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&letterSpacing=5&duration=200&pause=50&color=add8e7&center=true&vCenter=true&width=900&height=50&lines=Ossama+ETTAQAFI;0ss%40ma+ETT%23QAFI;Ossama+ETTAQAFI;O__ama+ETTAQAFI" alt="Ossama Glitch" title="it’s 2026, and i’m still bugging."/>
   
   <a href="https://open.spotify.com/user/31m5lswyxodokcnqjup2id7vumii">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=add8e7&bar_color_cover=false" width="350" />
