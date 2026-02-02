@@ -49,6 +49,8 @@
 - 💡 **Philosophy:** Accumulation, slow, steady, and progressive growth.
 - 🧪 **Research:** Still exploring...
 
+`hmmm… more details? i'm very concerned about my own privacy, and i don't care about people's achievements or illusions, so there's no need to care or pretend, or try hard to make people do so… since i don't expect it. :)`
+
 </details>
 
 <details>
