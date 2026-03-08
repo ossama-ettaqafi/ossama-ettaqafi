@@ -1,16 +1,85 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ossama-ettaqafi/ossama-ettaqafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&letterSpacing=4&duration=200&pause=60&color=ADD8E7&center=true&vCenter=true&width=900&height=60&lines=Ossama+ETTAQAFI;0ss%40ma+ETT%23QAFI;O__ama+ETTAQAFI;"
+    alt="Ossama Glitch"
+  />
 
-Here are some ideas to get you started:
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <a href="https://open.spotify.com/user/31m5lswyxodokcnqjup2id7vumii">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=7DF9FF"
+      width="320"
+    />
+  </a>
+  <img src="https://media.giphy.com/media/fvwgJhsUcvVrIFLsuk/giphy.gif" width="110"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=ADD8E7&center=true&vCenter=true&width=700&lines=Data+Science+Student;Future+AI+Researcher;;Ma3gaz+Kbir"
+  />
+
+  <p><b>⚡ Mission:</b> <i>...</i></p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ossama-ettaqafi/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white"/>
+    </a>
+    <a href="mailto:ossama.ettaqafi@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=&logoColor=white"/>
+    </a>
+    <a href="https://discord.com/users/714966017427767296">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=&logoColor=white"/>
+    </a>
+  </p>
+      
+  <hr width="50%" style="border: 0.5px solid #2d333b;"/>
+
+</div>
+
+### 🌌 About Me
+
+<details>
+<summary><b>🚀 2026 Mission Log</b></summary>
+
+- 🎓 **Status:** Final Year @ **ENSA El Jadida** (Data Science & AI).
+- 🔍 **Active Search:** Seeking **Internship 2026** opportunities.
+- 🧪 **Research:** Cybersecurity for LLM Agents: Detection of Malicious AI Use (Identity Deepfakes).
+- 💡 **Philosophy:** *Accumulation:* Great things are done by a series of small things brought together.
+
+</details>
+
+### 🛠️ Skills
+
+> ⚠️ Some skills are mastered, and others are powered by caffeine, documentation, and LLMs.
+
+<details>
+<summary><b>📌 Stack</b></summary>
+
+| Category | Proficiency & Tools |
+|----------|---------------------|
+| **🧠 AI & Deep Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EA4335?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **⚙️ MLOps & Big Data** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-76B900?style=flat-square&logo=dvc&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **💻 Systems & Dev** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **🌐 Web Architecture** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **🗄️ Database & Networking** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=flat-square&logo=cisco&logoColor=white) |
+
+</details>
+
+<div align="center">
+
+#### 🤝 Let's Connect
+*Open for AI Research, Data Projects, or Freelance collaborations.*
+
+<details>
+<summary>🤫 <b>System Secret</b></summary>
+<br>
+<img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-570.gif" width="120"/>
+<p><b>Connection established.</b><br>You reached the bottom... Bisou!</p>
+</details>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E7&height=90&section=footer"/>
+
+</div>
