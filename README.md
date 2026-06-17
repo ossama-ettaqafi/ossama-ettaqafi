@@ -1,184 +1,168 @@
 <div align="center">
 
 <!-- ===== TOP BANNER + VIEWS ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=d1e4ff&center=true&vCenter=true&width=600&lines=Salam!+I'm+Ossama!;Future+Data+Scientist+%7C+ML+Engineer;Turning+data+into+decisions;Building+with+%E2%9D%A4%EF%B8%8F+%26+good+music;Always+learning%2C+always+curious" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=cbd5e1&center=true&vCenter=true&width=600&lines=Salam!+I'm+Ossama!;Future+Data+Scientist+%7C+ML+Engineer;Turning+data+into+decisions;Building+with+%E2%9D%A4%EF%B8%8F+%26+good+music;Always+learning%2C+always+curious" alt="Typing animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ossama-ettaqafi&color=d1e4ff&style=flat-square&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ossama-ettaqafi&color=1e1e2e&style=flat-square&label=profile+views&labelColor=cbd5e1" alt="Profile views" />
 
 <br/><br/>
 
-<!-- ===== LEFT · CENTER · RIGHT (gifs + spotify) ===== -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1sN2hrcXlvNHR2MGNvZXFsYWZncTFsNGdrYmY0bDFxZjlxY2NrZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aLI73eIgT41b2/giphy.gif" width="60" alt="coding gif" />
-  
-  <a href="https://open.spotify.com/user/31m5lswyxodokcnqjup2id7vumii">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=d1e4ff" width="280" alt="Spotify now playing" />
+<!-- ===== SOCIAL LINKS ===== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ossama-ettaqafi/">
+    <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=cbd5e1" alt="LinkedIn"/>
   </a>
-  
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif?cid=790b761eemls2hkqyo4tv2gcoeqlaefq4l4gkbf4l1qf9qcck&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="60" alt="coffee gif" />
-</div>
+  &nbsp;
+  <a href="mailto:ossama.ettaqafi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1e1e2e?style=for-the-badge&logo=gmail&logoColor=cbd5e1" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ossama-ettaqafi">
+    <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cbd5e1" alt="GitHub"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- ===== WIDGETS ===== -->
+<table border="0" align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" valign="middle" style="border: none; padding: 10px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1sN2hrcXlvNHR2MGNvZXFsYWZncTFsNGdrYmY0bDFxZjlxY2NrZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aLI73eIgT41b2/giphy.gif" width="50" alt="coding gif" />
+    </td>
+    <td align="center" valign="middle" style="border: none; padding: 10px;">
+      <a href="https://open.spotify.com/user/31m5lswyxodokcnqjup2id7vumii">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5lswyxodokcnqjup2id7vumii&cover_image=true&theme=novatorem&background_color=0D1117&bar_color=cbd5e1" width="320" alt="Spotify now playing" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- ===== QUICK FACTS ===== -->
 <p align="center">
-  <kbd>🎓 Final‑year Data Science & AI Engineering Student</kbd>
-  <br/><br/>
-  <kbd>📍 ENSA El Jadida</kbd>  <kbd>🇲🇦 Morocco</kbd>
-</p>
-
-<!-- ===== SOCIAL LINKS (small, #d1e4ff background) ===== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ossama-ettaqafi/">
-    <img src="https://img.shields.io/badge/linkedin-d1e4ff?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ossama.ettaqafi@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-d1e4ff?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ossama-ettaqafi">
-    <img src="https://img.shields.io/badge/github-d1e4ff?style=flat-square&logo=github&logoColor=181717" alt="GitHub"/>
-  </a>
+  <code>🎓 Final‑year Data Science & AI Engineering Student</code>
+  <br/>
+  <code>📍 ENSA El Jadida, Morocco</code>
 </p>
 
 </div>
+
+<br/>
 
 <!-- ===== DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+<br/>
+
 <!-- ===== WHAT I'M UP TO ===== -->
-<h3 align="left">📌 What I'm up to</h3>
+### 📌 What I'm up to
 
-- 🧪 **Learning by building** — exploring AI, research, and the whole data‑to‑impact pipeline.
-- 🛠️ **Shipping tiny tools** — small apps, automations, and weekend experiments that solve real problems.
-- 🎧 **Vibe coding** — always coding with a lo‑fi soundtrack.
-- 📚 **Currently diving into** — //
+- 🧪 **Learning by building** — exploring AI architectures, research, and the whole data‑to‑impact pipeline.
+- 🛠️ **Shipping tiny tools** — spinning up minor apps, automations, and weekend experiments that solve real problems.
+- 🎧 **Vibe coding** — turning coffee and data into clean code with a lo‑fi soundtrack playing.
+- 📚 **Currently diving into** — Multi-modal deepfake detection architectures and cybersecurity frameworks for LLM agents.
 
 <br/>
 
-<!-- ===== GITHUB STATS (collapsed by default) ===== -->
-<details>
-<summary><b>📊 GitHub Stats</b></summary>
-<br/>
+<!-- ===== GITHUB STATS & ACTIVITY ===== -->
+### 📊 Git Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ossama-ettaqafi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=d1e4ff&icon_color=d1e4ff&text_color=d1e4ff&hide_rank=true" width="32%" alt="GitHub stats" />
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="50%" valign="top" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ossama-ettaqafi&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=cbd5e1&icon_color=cbd5e1&text_color=cbd5e1&hide_rank=true" width="100%" alt="GitHub stats" />
+      </td>
+      <td width="50%" valign="top" style="border: none;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ossama-ettaqafi&bg_color=0D1117&color=cbd5e1&line=cbd5e1&point=cbd5e1&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
-</details>
 
 <br/>
 
-<!-- ===== ACTIVITY GRAPH (collapsed by default) ===== -->
-<details>
-<summary><b>📈 Contribution Graph</b></summary>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ossama-ettaqafi&bg_color=0D1117&color=d1e4ff&line=d1e4ff&point=d1e4ff&area=true&hide_border=true" width="65%" alt="GitHub Activity Graph" />
-</div>
-</details>
+<!-- ===== TOOLBOX ===== -->
+### 🧰 Skills & Toolbox
 
-<br/>
-
-<!-- ===== TOOLBOX (collapsed by default) ===== -->
-<details>
-<summary><b>🧰 Skills & Toolbox</b></summary>
-<br/>
-
-<!-- Core languages – reliable devicon CDN (24px) -->
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="python" /><br/>Python</td>
-    <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" height="24" alt="java" /><br/>Java</td>
-    <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="javascript" /><br/>JS</td>
-    <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" alt="typescript" /><br/>TS</td>
-    <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" alt="c" /><br/>C</td>
-    <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="sql" /><br/>SQL</td>
-    <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" height="24" alt="php" /><br/>PHP</td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Detailed tool categories – all flat-square + #d1e4ff -->
-<table align="center">
-  <tr>
-    <td><strong>🤖 AI / ML</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/pytorch-d1e4ff?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-      <img src="https://img.shields.io/badge/tensorflow-d1e4ff?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
-      <img src="https://img.shields.io/badge/transformers-d1e4ff?style=flat-square&logo=huggingface&logoColor=FFD21E" />
-      <img src="https://img.shields.io/badge/scikit--learn-d1e4ff?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+    <td align="left" width="30%"><strong>🔤 Core Languages</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/SQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/Java-1e1e2e?style=flat-square&logo=openjdk&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/C-1e1e2e?style=flat-square&logo=c&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/PHP-1e1e2e?style=flat-square&logo=php&logoColor=cbd5e1" />
     </td>
   </tr>
   <tr>
-    <td><strong>📊 Data Science</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/pandas-d1e4ff?style=flat-square&logo=pandas&logoColor=150458" />
-      <img src="https://img.shields.io/badge/numpy-d1e4ff?style=flat-square&logo=numpy&logoColor=013243" />
-      <img src="https://img.shields.io/badge/tableau-d1e4ff?style=flat-square&logo=tableau&logoColor=E97627" />
-      <img src="https://img.shields.io/badge/powerbi-d1e4ff?style=flat-square&logo=powerbi&logoColor=F2C811" />
+    <td align="left"><strong>🤖 AI / ML</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PyTorch-1e1e2e?style=flat-square&logo=pytorch&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/TensorFlow-1e1e2e?style=flat-square&logo=tensorflow&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-1e1e2e?style=flat-square&logo=scikitlearn&logoColor=cbd5e1" />
     </td>
   </tr>
   <tr>
-    <td><strong>⚡ Big Data</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/spark-d1e4ff?style=flat-square&logo=apachespark&logoColor=E25A1C" />
-      <img src="https://img.shields.io/badge/kafka-d1e4ff?style=flat-square&logo=apachekafka&logoColor=231F20" />
-      <img src="https://img.shields.io/badge/hadoop-d1e4ff?style=flat-square&logo=apachehadoop&logoColor=66CCFF" />
+    <td align="left"><strong>📊 Data Science</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Pandas-1e1e2e?style=flat-square&logo=pandas&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/NumPy-1e1e2e?style=flat-square&logo=numpy&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/Tableau-1e1e2e?style=flat-square&logo=tableau&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/Power_BI-1e1e2e?style=flat-square&logo=powerbi&logoColor=cbd5e1" />
     </td>
   </tr>
   <tr>
-    <td><strong>🌐 Web & Frameworks</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/react-d1e4ff?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/angular-d1e4ff?style=flat-square&logo=angular&logoColor=DD0031" />
-      <img src="https://img.shields.io/badge/flask-d1e4ff?style=flat-square&logo=flask&logoColor=000000" />
-      <img src="https://img.shields.io/badge/laravel-d1e4ff?style=flat-square&logo=laravel&logoColor=FF2D20" />
+    <td align="left"><strong>⚡ Big Data</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Apache_Spark-1e1e2e?style=flat-square&logo=apachespark&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-1e1e2e?style=flat-square&logo=apachekafka&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/Hadoop-1e1e2e?style=flat-square&logo=apachehadoop&logoColor=cbd5e1" />
     </td>
   </tr>
   <tr>
-    <td><strong>🗄️ Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/mysql-d1e4ff?style=flat-square&logo=mysql&logoColor=4479A1" />
-      <img src="https://img.shields.io/badge/postgresql-d1e4ff?style=flat-square&logo=postgresql&logoColor=4169E1" />
-      <img src="https://img.shields.io/badge/mongodb-d1e4ff?style=flat-square&logo=mongodb&logoColor=47A248" />
-      <img src="https://img.shields.io/badge/firebase-d1e4ff?style=flat-square&logo=firebase&logoColor=FFCA28" />
+    <td align="left"><strong>✨ Generative AI</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/OpenAI-1e1e2e?style=flat-square&logo=openai&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/Hugging_Face-1e1e2e?style=flat-square&logo=huggingface&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/LangChain-1e1e2e?style=flat-square&logo=langchain&logoColor=cbd5e1" />
     </td>
   </tr>
   <tr>
-    <td><strong>🧠 MLOps & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/docker-d1e4ff?style=flat-square&logo=docker&logoColor=2496ED" />
-      <img src="https://img.shields.io/badge/aws-d1e4ff?style=flat-square&logo=amazon-aws&logoColor=232F3E" />
-      <img src="https://img.shields.io/badge/git-d1e4ff?style=flat-square&logo=git&logoColor=F05032" />
-      <img src="https://img.shields.io/badge/linux-d1e4ff?style=flat-square&logo=linux&logoColor=FCC624" />
-      <img src="https://img.shields.io/badge/dvc-d1e4ff?style=flat-square&logo=dvc&logoColor=13ADC7" />
-      <img src="https://img.shields.io/badge/mlflow-d1e4ff?style=flat-square&logo=mlflow&logoColor=0194E2" />
-      <img src="https://img.shields.io/badge/airflow-d1e4ff?style=flat-square&logo=apache-airflow&logoColor=017CEE" />
+    <td align="left"><strong>🧠 MLOps & DevOps</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/AWS-1e1e2e?style=flat-square&logo=amazon-aws&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/MLflow-1e1e2e?style=flat-square&logo=mlflow&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/Airflow-1e1e2e?style=flat-square&logo=apacheairflow&logoColor=cbd5e1" />
     </td>
   </tr>
   <tr>
-    <td><strong>✨ Generative AI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/openai-d1e4ff?style=flat-square&logo=openai&logoColor=412991" />
-      <img src="https://img.shields.io/badge/huggingface-d1e4ff?style=flat-square&logo=huggingface&logoColor=FFD21E" />
-      <img src="https://img.shields.io/badge/stable--diffusion-d1e4ff?style=flat-square&logo=stablediffusion&logoColor=9A348E" />
-      <img src="https://img.shields.io/badge/langchain-d1e4ff?style=flat-square&logo=langchain&logoColor=1C3C3C" />
+    <td align="left"><strong>🗄️ Databases & Frameworks</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/MongoDB-1e1e2e?style=flat-square&logo=mongodb&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=flat-square&logo=fastapi&logoColor=cbd5e1" />
+      <img src="https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=cbd5e1" />
     </td>
   </tr>
 </table>
-
-</details>
 
 <br/>
 
 <!-- ===== CONNECT ===== -->
-<h3 align="left">📬 Let's connect</h3>
+### 📬 Let's connect
 
-I'm always open to collaborations, interesting conversations, or just a tech chat.  
-Reach out through any of the platforms above or 📧 [ossama.ettaqafi@gmail.com](mailto:ossama.ettaqafi@gmail.com)
+I'm always open to collaborations, research, or just a random tech chat. 
+Reach out through any of the platforms above or drop a message directly at 📧 [ossama.ettaqafi@gmail.com](mailto:ossama.ettaqafi@gmail.com)
 
 <br/>
 
@@ -189,5 +173,6 @@ Reach out through any of the platforms above or 📧 [ossama.ettaqafi@gmail.com]
     “Always learning. Always building. Always curious.”<br/>
     — keep exploring, keep creating 🌱
   </i>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d1e4ff&height=100&section=footer&text=&fontSize=0" width="100%" alt="wave footer"/>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cbd5e1&height=80&section=footer&text=&fontSize=0" width="100%" alt="wave footer"/>
 </div>
