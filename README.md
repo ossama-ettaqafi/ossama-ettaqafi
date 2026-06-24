@@ -47,7 +47,7 @@
 
 </div>
 
-<h3 align="center">🧰 Technology Stack</h2>
+<h3 align="center">🧰 Technology Stack</h3>
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 </div>
 
 <!-- ===== FEATURED PROJECTS ===== -->
-<h4 align="center">🚀 Featured Projects</h2>
+<h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
@@ -146,7 +146,7 @@
 </div>
 
 <!-- ===== CONNECT CTA ===== -->
-<h4 align="center">🤝 Let's Connect!</h2>
+<h3 align="center">🤝 Let's Connect!</h2>
 
 <div align="center">
   <table style="border: 1px solid #30363D; background: #0D1117; border-radius: 16px; padding: 16px; font-size: 14px;">
