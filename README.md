@@ -34,8 +34,7 @@
 📍 <strong>Location:</strong>   ENSA El Jadida, Morocco
 💼 <strong>Focus:</strong>      Machine Learning & Deep Learning
 🎧 <strong>Work Style:</strong>  Lo-fi music + vibe coding
-📚 <strong>Research:</strong>   Multi-modal deepfake detection
-      </pre>
+📚 <strong>Research:</strong>   Multi-modal deepfake detection</pre>
     </td>
     <td style="vertical-align: middle; padding: 12px;">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1sN2hrcXlvNHR2MGNvZXFsYWZncTFsNGdrYmY0bDFxZjlxY2NrZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aLI73eIgT41b2/giphy.gif"
