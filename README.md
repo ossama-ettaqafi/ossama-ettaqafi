@@ -120,12 +120,12 @@
     <tr>
       <td width="50%" valign="top" style="border: none; padding: 8px;">
         <a href="https://github.com/ossama-ettaqafi/Forensic.AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ossama-ettaqafi&repo=Forensic.AI&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&icon_color=38BDF8" width="100%" alt="Forensic.AI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ossama-ettaqafi&repo=Forensic.AI&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&icon_color=38BDF8" width="100%" alt="App 1" />
         </a>
       </td>
       <td width="50%" valign="top" style="border: none; padding: 8px;">
         <a href="https://github.com/ossama-ettaqafi/No-Robama">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ossama-ettaqafi&repo=No-Robama&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&icon_color=38BDF8" width="100%" alt="No-Robama" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ossama-ettaqafi&repo=No-Robama&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&icon_color=38BDF8" width="100%" alt="App 2" />
         </a>
       </td>
     </tr>
