@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Ossama 👋
 
-<!--
-**ossama-ettaqafi/ossama-ettaqafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **AI Engineer in progress**
 
-Here are some ideas to get you started:
+I'm passionate about **Machine Learning, AI, and building meaningful projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning, experimenting, and building my **AI/ML portfolio**.
+
+### 🧠 Interests
+
+`Machine Learning` · `Generative AI` · `LLMs` · `AI Agents` · `MLOps` · `AI Research`
+
+### 🛠️ Tech
+
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `FastAPI` `Docker` `Kubernetes` `AWS`
+
+> **Learn. Build. Break. Improve. Repeat.** 🚀
