@@ -8,7 +8,7 @@ I work with data to build intelligent solutions, while continuously exploring **
 
 #### 🧠 Interests
 
-`Machine Learning` · `Deep Learning` · `Generative AI` · `LLMs` · `AI Agents` · `MLOps` · `AI Research`
+`Machine Learning` · `Generative AI` · `LLMs` · `AI Agents` · `MLOps` · `AI Research`
 
 #### 🛠️ Tech Stack
 
