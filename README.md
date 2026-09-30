@@ -1,17 +1,17 @@
 ### Hey, I'm Ossama 👋
 
-🤖 **AI Engineer in progress**
+🤖 **Data Scientist | AI Engineer in progress**
 
-I'm passionate about **Machine Learning, AI, and building meaningful projects**.
+I'm passionate about **Machine Learning, AI, and building meaningful, practical projects**.
 
-Currently learning, experimenting, and building my **AI/ML portfolio**.
+I work with data to build intelligent solutions, while continuously exploring **AI, Deep Learning, and modern AI systems**.
 
 #### 🧠 Interests
 
-`Machine Learning` · `Generative AI` · `LLMs` · `AI Agents` · `MLOps` · `AI Research`
+`Machine Learning` · `Deep Learning` · `Generative AI` · `LLMs` · `AI Agents` · `MLOps` · `AI Research`
 
-#### 🛠️ Tech
+#### 🛠️ Tech Stack
 
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `FastAPI` `Docker` `Kubernetes` `AWS`
+`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `FastAPI` · `Docker` · `Kubernetes` · `AWS`
 
 > **Learn. Build. Break. Improve. Repeat.** 🚀
